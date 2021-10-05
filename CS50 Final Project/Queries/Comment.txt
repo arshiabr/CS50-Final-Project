@@ -1,0 +1,6 @@
+Query1 --> Displaying list of customers’ account
+Query2 --> Displaying list of ticket sales
+Query3 --> List of science museum tickets
+Query4 --> List of customers who have purchased seats with numbers 10000 to 30000
+Query5 --> The sum of all the tickets purchased by each customer
+Query6 --> The total number of tickets that each customer has bought on the desired date (1398/06/01 to 1398/07/01)
